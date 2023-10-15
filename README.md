@@ -1,5 +1,5 @@
 <h1>
-  Проверка статуса плоттера HP Designjet T790 44in
+  Шаблон телеграмм бота. Aiogram, Tortorise ORM, Docker
 </h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
