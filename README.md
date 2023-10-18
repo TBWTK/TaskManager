@@ -1,5 +1,5 @@
 <h1>
-  Шаблон телеграмм бота. Aiogram, Tortorise ORM, Docker
+  Менеджер задач Aiogram, Tortorise ORM, Docker
 </h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -10,9 +10,6 @@
 </div>
 </div>
 
-<h3>
-    Шаблон для создания телеграмм бота на основе Aiogram, Tortorise ORM, Docker
-</h3>
 <h4>
     Создать и использовать бота
 </h4
