@@ -12,6 +12,6 @@ def create_link(chat_id: int, project_name: str, flag: str):
     return InlineKeyboardMarkup(
         inline_keyboard=[
             [InlineKeyboardButton(text=text,
-                                  url=f'https://t.me/testing_and_debugging_bot?start={chat_id}_{flag}')]
+                                  url=f'https://t.me/NAME_BOT?start={chat_id}_{flag}')]
         ]
     )
